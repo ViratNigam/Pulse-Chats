@@ -1,5 +1,5 @@
 # my-chats
-TECH STACK => HTML ,CSS ,JavaScript ,Express ,Socket.io & Nodemon .
+HTML ,CSS ,JavaScript ,Express ,Socket.io & Nodemon .
 https://pulse-chat.herokuapp.com/
 
 
